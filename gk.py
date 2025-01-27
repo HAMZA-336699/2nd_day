@@ -1,1 +1,8 @@
 print("ertyuio")
+print("ertyuio")
+print("ertyuio")
+print("ertyuio")
+print("ertyuio")
+print("ertyuio")
+print("ertyuio")
+print("ertyuio")
